@@ -5,6 +5,8 @@ This project is an intelligent Retrieval-Augmented Generation (RAG) system that 
 
 Ask questions from your uploaded Link, PDF, Text, DOCX documents using an AI-powered chatbot built with LangChain, FAISS, and free Hugging Face models. No paid API like OpenAI needed!
 
+Try the deployed version: [Live Demo](https://multi-pdf-chatbot-gohvcg7zmhskg3rouynhn4.streamlit.app/)
+
 ##  Features
 
 -  Chat with any Link, PDF, Text, DOCX document
